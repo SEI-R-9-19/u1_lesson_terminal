@@ -220,6 +220,11 @@ rm name.txt
 rm -rf directory_name
 ```
 
+If you are uncomfortable using `rm` you can install a terminal helper that will send deleted files/directories to your trash via the `trash` command. You can install via Homebrew with the following command.
+```zsh
+brew install trash
+```
+
 ## Recap
 In this lesson we learned about using MacOS terminal commands, which can be very powerful. Commands you'll be using most frequently include:
 - `cd` change directory
